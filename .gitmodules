@@ -1,0 +1,84 @@
+[submodule "AiChatBot.Api"]
+	path = AiChatBot.Api
+	url = https://github.com/Hariomlokhande-coder/AiChatBot.Api.git
+[submodule "UserManagementAPI"]
+	path = UserManagementAPI
+	url = https://github.com/Hariomlokhande-coder/UserManagementAPI.git
+[submodule "AudioClassificationAPI"]
+	path = AudioClassificationAPI
+	url = https://github.com/Hariomlokhande-coder/AudioClassificationAPI.git
+[submodule "CsvSyncAsyncBenchmark"]
+	path = CsvSyncAsyncBenchmark
+	url = https://github.com/Hariomlokhande-coder/CsvSyncAsyncBenchmark.git
+[submodule "SentimentAnalysisAPI"]
+	path = SentimentAnalysisAPI
+	url = https://github.com/Hariomlokhande-coder/SentimentAnalysisAPI.git
+[submodule "MovieRankingSystem"]
+	path = MovieRankingSystem
+	url = https://github.com/Hariomlokhande-coder/MovieRankingSystem.git
+[submodule "ImageClassificationAPI"]
+	path = ImageClassificationAPI
+	url = https://github.com/Hariomlokhande-coder/ImageClassificationAPI.git
+[submodule "UserEmailRegistration"]
+	path = UserEmailRegistration
+	url = https://github.com/Hariomlokhande-coder/UserEmailRegistration.git
+[submodule "SpamClassifierAPI"]
+	path = SpamClassifierAPI
+	url = https://github.com/Hariomlokhande-coder/SpamClassifierAPI.git
+[submodule "AIPredictionHub"]
+	path = AIPredictionHub
+	url = https://github.com/Hariomlokhande-coder/AIPredictionHub.git
+[submodule "RealTimeKafkaPOC"]
+	path = RealTimeKafkaPOC
+	url = https://github.com/Hariomlokhande-coder/RealTimeKafkaPOC.git
+[submodule "MovieRatingPrediction"]
+	path = MovieRatingPrediction
+	url = https://github.com/Hariomlokhande-coder/MovieRatingPrediction.git
+[submodule "DeliveryTimePrediction"]
+	path = DeliveryTimePrediction
+	url = https://github.com/Hariomlokhande-coder/DeliveryTimePrediction.git
+[submodule "CarPricePredictionAPI"]
+	path = CarPricePredictionAPI
+	url = https://github.com/Hariomlokhande-coder/CarPricePredictionAPI.git
+[submodule "EnergyConsumptionPredictionAPI"]
+	path = EnergyConsumptionPredictionAPI
+	url = https://github.com/Hariomlokhande-coder/EnergyConsumptionPredictionAPI.git
+[submodule "StudentPredictionAPI"]
+	path = StudentPredictionAPI
+	url = https://github.com/Hariomlokhande-coder/StudentPredictionAPI.git
+[submodule "SalesDashboardAPI"]
+	path = SalesDashboardAPI
+	url = https://github.com/Hariomlokhande-coder/SalesDashboardAPI.git
+[submodule "TrafficSignDetectionAPI"]
+	path = TrafficSignDetectionAPI
+	url = https://github.com/Hariomlokhande-coder/TrafficSignDetectionAPI.git
+[submodule "SolidDesignAPI"]
+	path = SolidDesignAPI
+	url = https://github.com/Hariomlokhande-coder/SolidDesignAPI.git
+[submodule "ImageProcessorPOC"]
+	path = ImageProcessorPOC
+	url = https://github.com/Hariomlokhande-coder/ImageProcessorPOC.git
+[submodule "EF-CoreSync"]
+	path = EF-CoreSync
+	url = https://github.com/Hariomlokhande-coder/EF-CoreSync.git
+[submodule "DotNet-Training"]
+	path = DotNet-Training
+	url = https://github.com/Hariomlokhande-coder/DotNet-Training.git
+[submodule "microservices-dotnet-demo"]
+	path = microservices-dotnet-demo
+	url = https://github.com/Hariomlokhande-coder/microservices-dotnet-demo.git
+[submodule "DependencyInjectionDemo"]
+	path = DependencyInjectionDemo
+	url = https://github.com/Hariomlokhande-coder/DependencyInjectionDemo.git
+[submodule "UserApiDemo"]
+	path = UserApiDemo
+	url = https://github.com/Hariomlokhande-coder/UserApiDemo.git
+[submodule "MiddlewareDemo"]
+	path = MiddlewareDemo
+	url = https://github.com/Hariomlokhande-coder/MiddlewareDemo.git
+[submodule "EF-CoreAsync"]
+	path = EF-CoreAsync
+	url = https://github.com/Hariomlokhande-coder/EF-CoreAsync.git
+[submodule "LinqRegistrationMVC"]
+	path = LinqRegistrationMVC
+	url = https://github.com/Hariomlokhande-coder/LinqRegistrationMVC.git
